@@ -1,0 +1,3 @@
+نسخه آماده آپلود به GitHub
+این پوشه را به صورت کامل در Repository آپلود کنید.
+فایل‌های اصلی شامل app/، requirements.txt، render.yaml و README.md هستند.
